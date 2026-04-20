@@ -1,6 +1,6 @@
 # Playwright Automation Framework
 
-[![Playwright Tests](https://github.com/YOUR_USERNAME/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/YOUR_USERNAME/playwright-automation-framework/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/PiyushSinghal-QA/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/PiyushSinghal-QA/playwright-automation-framework/actions/workflows/playwright.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue.svg)](https://www.typescriptlang.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.48-green.svg)](https://playwright.dev/)
 
@@ -67,7 +67,7 @@ playwright-automation-framework/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/playwright-automation-framework.git
+git clone https://github.com/PiyushSinghal-QA/playwright-automation-framework.git
 cd playwright-automation-framework
 
 # Install dependencies
